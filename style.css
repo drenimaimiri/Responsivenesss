@@ -1,0 +1,7 @@
+#main{
+    display: flex;
+    justify-content: space-evenly;
+}
+body{
+    padding: 180px;
+}
